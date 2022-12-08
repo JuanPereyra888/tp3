@@ -83,6 +83,7 @@ function eliminarDelCarrito(e) {
 
 botonVaciar.addEventListener("click", vaciarCarrito);
 function vaciarCarrito() {
+    swal('Acaba de vaciar su carrito','Si desea puede volver a seleccionar sus productos','success')
     productosEnCarrito.length = 0;
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
     cargarProductosCarrito();

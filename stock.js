@@ -1,7 +1,7 @@
 const productos = [
     {
         id: "Jordan-01",
-        titulo:"Zapatillas 01",
+        titulo:"Jordan 13",
         imagen: "img/jordan 13.jpg",
         categoria: {
             nombre: "Jordan",
@@ -11,7 +11,7 @@ const productos = [
     },
     {
         id: "Jordan-02",
-        titulo:"Zapatillas 02",
+        titulo:"Jordan 1",
         imagen: "img/jordan1.jpg",
         categoria: {
             nombre: "Jordan",
@@ -21,7 +21,7 @@ const productos = [
     },
     {
         id: "Jordan-03",
-        titulo:"Zapatillas 03",
+        titulo:"Jordan 4",
         imagen: "img/jordan4.jpg",
         categoria: {
             nombre: "Jordan",
@@ -31,7 +31,7 @@ const productos = [
     },
     {
         id: "Jordan-04",
-        titulo:"Zapatillas 04",
+        titulo:"Jordan 6",
         imagen: "img/jordan6.jpg",
         categoria: {
             nombre: "Jordan",
@@ -41,7 +41,7 @@ const productos = [
     },
     {
         id: "Jordan-05",
-        titulo:"Zapatillas 05",
+        titulo:"Jordan 14",
         imagen: "img/jordan14.jpg",
         categoria: {
             nombre: "Jordan",
@@ -51,7 +51,7 @@ const productos = [
     },
     {
         id: "Jordan-01",
-        titulo: "Zapatillas 01",
+        titulo: "Jordan Low",
         imagen: "img/jordanlow.jpg",
         categoria: {
             nombre: "Jordan",
